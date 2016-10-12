@@ -68,4 +68,5 @@ et Liste des Domaine(s) que vous aimez, en précisant votre compétence(s) déj�
 
 Vous souhaitant le plus nombreux possible...
 
-
+LC
+P.S.: Et souriez, même si vous n'êtes pas filmé... ;-)
