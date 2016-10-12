@@ -1,8 +1,8 @@
 # Valenciennes - (59 FR)
-Co-créateurs valenciennes (Contingent 17/02)
+Co-créateurs Valenciennes (Contingent 17/02)
 
 ## Pour Qui ?
-TOUS (Débutant à Pros)
+TOUS (Débutant à Pros en quoi que ce soit)
 
 ## Pour Quoi ?
 Réaliser aisément (Par l'usage des technologies les plus efficaces) des apps (Sous licences Open Sources) qui servent au plus grand nombre, en utilisant la puissance de Git.
@@ -10,9 +10,9 @@ Réaliser aisément (Par l'usage des technologies les plus efficaces) des apps (
 
 Tout (Même ce texte) est modifiable, adaptable, améliorable... Par chacun d'entre nous !
 
-Vous avez déjà des idées, peut-être déjà des compétences et des projets en cours ?
+Vous avez déjà des idées, peut-être déjà des compétences et des projets en cours ? Ou pas...
 
-Des outils puissant sont là, à dispo... Réunissons tout cela !
+De puissants outils sont là, à dispo... Réunissons tout cela ! Partageons tout cela ! Organisons tout cela pour que chaque ressource optimale soit 'connectée' au moment le plus opportun, et exploitons tout cela !
 
 N'hésitez pas ! Quasi gratos, sans aucun engagement, juste, décidez de créer, décidez d'être !
 
