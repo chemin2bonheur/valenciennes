@@ -2,10 +2,11 @@
 Co-créateurs valenciennes
 
 ## Pour Qui ?
-TOUS (Débutant à Initiés)
+TOUS (Débutant à Pros)
 
 ## Pour Quoi ?
-Réaliser aisément (Par l'usage des technologies les plus efficaces) des apps qui servent au plus grand nombre, en utilisant la puissance de Git.
+Réaliser aisément (Par l'usage des technologies les plus efficaces) des apps (Sous licences Open Sources) qui servent au plus grand nombre, en utilisant la puissance de Git.
+
 
 Tout (Même ce texte) est modifiable, adaptable, améliorable... Par chacun d'entre nous !
 
@@ -13,7 +14,8 @@ Vous avez déjà des idées, peut-être déjà des compétences et des projets e
 
 Des outils puissant sont là, à dispo... Réunissons tout cela !
 
-N'hésitez pas ! Gratos, sans aucun engagement, juste, décidez de créer, décider d'être !
+N'hésitez pas ! Quasi gratos, sans aucun engagement, juste, décidez de créer, décidez d'être !
+
 
 @ bi1tô !
 
@@ -23,13 +25,19 @@ Action soutenue périodiquement par des rencontres physiques: http://aperophp.ne
 
 Prochaîne (Et première date !) :
 
-23/11/2016 - 19:30-20:00 - Durée: Une paires d'heure max (Avec entre act env. au milieu)
-Eau - Céfé - Jus de fruits offerts... Peut-être des chips et cacahuettes... Lol
+# Mercredi 23/11/2016 - 19:30 - Valenciennes
+## Lieu précis à définir selon suggestions
 
-Participation aux frais: 1 €.
+## Durée: Une paires d'heures max (Avec entre-acte 1/4H env. au milieu).
+
+*Eau - Café - Jus de fruits offerts... Peut-être des chips et cacahuettes... Seront aussi au RV. Lol*
 
 
-Objectifs principaux de ce RV (à la base mensuel mais jamais obligatoire):
+## Participation aux frais: 1 €/pers.
+
+
+
+# Objectifs principaux de ce RV (à la base mensuel mais jamais obligatoire):
 
 -> Se rencontrer vraiment, partager plus aisément émotions, enthousiasme et idées/initiatives
 
@@ -42,7 +50,8 @@ Objectifs principaux de ce RV (à la base mensuel mais jamais obligatoire):
 -> Optionnel: Partage de visions et techniques de réalisations.
 
 
-* Pré-recquis:
+
+## Pré-recquis:
 
 - (Re)Commencer à croire, que quelque soit votre situation d'aujourd'hui, tout vous est possible,
 
@@ -52,6 +61,10 @@ Objectifs principaux de ce RV (à la base mensuel mais jamais obligatoire):
 et Liste des Domaine(s) que vous aimez, en précisant votre compétence(s) déjà acquises avec une évaluation subective de 1 à 3 [1: (Très)Débutant - 2:Initié - 3:Puriste/Pro)]
 
 -> Garderà l'esprit qu' "un Tien vaut toujours mieux que 1000 peut-être à venir..." : En conséquence, prenez y du plaisir (Ici et Maintenant...) lors de cette séance, soyez y cool, "venez comme vous (qui) êtes", vous serez surpris d'observer comme vous serez apprécié...
+
+
+*Si vous ne prenez avec vous qu'une chose, amenez votre agenda !*
+
 
 Vous souhaitant le plus nombreux possible...
 
