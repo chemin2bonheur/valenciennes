@@ -1,5 +1,5 @@
 # Valenciennes - (59 FR)
-Co-créateurs valenciennes
+Co-créateurs valenciennes (Contingent 17/02)
 
 ## Pour Qui ?
 TOUS (Débutant à Pros)
@@ -60,7 +60,7 @@ Prochaîne (Et première date !) :
 - En option: Accepter de vous dévoiler un peu... (Rassurez-vous: Le formulaire est très superficiel et le remplir vous donnera accès aux infos livrées par les autres participants actifs: Prénom - Pseudo (Courant, p-ê sur le net) - E-Mail
 et Liste des Domaine(s) que vous aimez, en précisant votre compétence(s) déjà acquises avec une évaluation subective de 1 à 3 [1: (Très)Débutant - 2:Initié - 3:Puriste/Pro)]
 
--> Garderà l'esprit qu' "un Tien vaut toujours mieux que 1000 peut-être à venir..." : En conséquence, prenez y du plaisir (Ici et Maintenant...) lors de cette séance, soyez y cool, "venez comme vous (qui) êtes", vous serez surpris d'observer comme vous serez apprécié...
+-> Garderà l'esprit qu' "un Tien vaut toujours mieux que 1000 peut-être à venir..." : En conséquence, prenez y du plaisir (Ici et Maintenant...) lors de cette séance, soyez y cool, "venez comme (qui) vous êtes", vous serez surpris d'observer comme vous serez apprécié...
 
 
 *Si vous ne prenez avec vous qu'une chose, amenez votre agenda !*
