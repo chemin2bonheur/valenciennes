@@ -41,7 +41,7 @@ Prochaîne (Et première date !) :
 
 -> Se rencontrer vraiment, partager plus aisément émotions, enthousiasme et idées/initiatives
 
--> Dial de sujets qui vous passionnent (Et bien-sûr des outils informatiques ad'hoc qui aident à vous permettre d'en vivre toujours plus l'expérimentation)
+-> Dial de sujets qui vous passionnent (Et bien-sûr des outils informatiques ad'hoc qui aident à vous permettre d'en vivre toujours plus et mieux l'expérimentation)
 
 -> (Optionnel) Faire part de votre (vos) envie(s), souhait(s), attente(s), besoin(s), espoirs
 
