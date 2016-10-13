@@ -42,7 +42,7 @@ selon nombre de participans prévus et suggestions reçues
 
 ## Participation aux frais: 77 €/pers.
 (Une réelle opportunité majeure dans votre vie peut ne se produire qu'une seule fois... Et ça commence maintenant !
-Ce prix, c'est uniquement si la réservation est faite le dernier jour possible, car moins élevé si vous avez et la chance d'avoir au plus tôt l'info avant et sû prendre la Bonne Décision le plus rapidement possible...)
+Ce prix, c'est uniquement si la réservation est faite le dernier jour possible, car moins élevé si vous avez eût la chance d'avoir l'info au plus tôt et sû prendre la Bonne Décision le plus rapidement possible...)
 
 
 
@@ -52,11 +52,14 @@ Ce prix, c'est uniquement si la réservation est faite le dernier jour possible,
 
 -> Se rencontrer vraiment, partager plus aisément émotions, enthousiasme et idées/initiatives, avis sur les dev en cours
 
+-> Conscientisation de votre rôle personnel important dans cette participation - Fera l'objet d'un mini speach (15-20 mn max. - Promis !) à 20 H 00.
+
+
 -> Dial de sujets qui vous passionnent (Et bien-sûr des outils informatiques ad'hoc qui aident à vous permettre d'en vivre toujours plus et mieux l'expérimentation)
 
--> (Optionnel) Faire part de votre (vos) envie(s), souhait(s), attente(s), besoin(s), espoirs
+-> Dials / Alpha C2B et C2B, fonctionnement & opportunités de carrières.
 
--> Conscientisation de votre rôle personnel important dans cette participation - Fera l'objet d'un mini speach (15-20 mn max. - Promis !) à 20 H 00.
+-> (Optionnel) Faire part de votre (vos) envie(s), souhait(s), attente(s), besoin(s), espoirs
 
 -> Optionnel: Partage de visions et techniques de réalisations.
 
@@ -70,19 +73,19 @@ Ce prix, c'est uniquement si la réservation est faite le dernier jour possible,
 
 - En option: Accepter de vous dévoiler un peu... (Rassurez-vous: Le formulaire falcultatif est très succinct et superficiel et rapidement rempli, il vous donnera accès aux infos livrées par les autres participants actifs volontaires: Prénom - Pseudo (Courant, p-ê sur le net) - E-Mail et Liste des Domaine(s) que vous aimez, en précisant votre compétence(s) déjà acquises avec une évaluation subective de 1 à 3 [1: (Très)Débutant - 2:Initié - 3:Puriste/Pro)] - Origine de votre invitation.
 
--> Garder à l'esprit qu' "un Tien vaut toujours mieux que 1000 tu l'auras (peut-être)..." : En conséquence, prenez y du plaisir (Ici et Maintenant...) lors et dès cette première séance, soyez y cool, "venez comme (qui) vous êtes", vous serez surpris d'observer comme vous serez apprécié...
+-> Garder à l'esprit qu' "un Tien vaut toujours mieux que 1000 tu l'auras (peut-être)..." : En conséquence, prenez y du plaisir dès lors et dès cette première séance (*Ici et Maintenant*...), soyez y cool, "venez comme (qui) vous êtes", vous serez surpris d'observer comme vous serez apprécié...
 
 
 *Si vous ne prenez avec vous qu'une chose, amenez votre agenda !*
 
 
-Vous souhaitant le plus nombreux possible...
+Vous y souhaitant le plus heureux possible...
 
 LC
 
 P.S.:
 
-1 Et souriez, même si vous n'êtes pas filmé...
+1 Et n'ouliez pas: Souriez, même si vous n'êtes pas filmé...
 
 2 Cliquez ici pour avoir le détail du [déroulement de la soirée du 23/11/2016](https://github.com/chemin2bonheur/valenciennes/blob/master/programmeSessionOuverture_161123.MD).
       
