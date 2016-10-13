@@ -12,6 +12,11 @@
 
 ##Puis dials libres entres présents.
 
+Avez-vous bien penser à vous munir de votre agenda comme conseillé ?
+
+=> Repartez ce soir avec au moins 2 R.V. !
+   (Avec au moins un des participants et avec vous même...).
+
 ---------------------------------------------
 
 Contenu des bases du Groupe des Alphas (Contingent 17/02 C2B)
