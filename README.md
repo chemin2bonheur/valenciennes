@@ -29,7 +29,8 @@ https://www.meetup.com/fr-FR/Meetup-Langages-de-programmation-C2B/events/2348213
 Prochaîne (Et première date !) :
 
 # Mercredi 23/11/2016 - 19:30 - Valenciennes
-## Lieu précis à définir selon nombre de participans prévus et suggestions reçues
+## Lieu précis à définir
+selon nombre de participans prévus et suggestions reçues
 
 ## Durée: Une paires d'heures max.
 (Avec entre-acte 1/4H env. au milieu).
@@ -58,14 +59,13 @@ Prochaîne (Et première date !) :
 
 ## Pré-recquis:
 
-- (Re)Commencer à croire, que quelque soit votre situation d'aujourd'hui, tout vous est possible,
+- (Re)Commencer à croire, que quelque soit votre situation d'aujourd'hui, TOUS vous EST POSSIBLE,
 
 - Décider de vous faire un cadeau, à vous même: De vous donner les moyens (On parle alors plus d'efforts que d'investissement notemment financiers) d'aller toujours dans le sens de votre objectif, en respect avec vos valeurs personnelles... (Cela aura commencé par venir à cette 'première'...)
 
-- En option: Accepter de vous dévoiler un peu... (Rassurez-vous: Le formulaire est très superficiel et le remplir vous donnera accès aux infos livrées par les autres participants actifs: Prénom - Pseudo (Courant, p-ê sur le net) - E-Mail
-et Liste des Domaine(s) que vous aimez, en précisant votre compétence(s) déjà acquises avec une évaluation subective de 1 à 3 [1: (Très)Débutant - 2:Initié - 3:Puriste/Pro)]
+- En option: Accepter de vous dévoiler un peu... (Rassurez-vous: Le formulaire falcultatif est très succinct et superficiel et rapidement rempli, il vous donnera accès aux infos livrées par les autres participants actifs volontaires: Prénom - Pseudo (Courant, p-ê sur le net) - E-Mail et Liste des Domaine(s) que vous aimez, en précisant votre compétence(s) déjà acquises avec une évaluation subective de 1 à 3 [1: (Très)Débutant - 2:Initié - 3:Puriste/Pro)]
 
--> Garderà l'esprit qu' "un Tien vaut toujours mieux que 1000 peut-être à venir..." : En conséquence, prenez y du plaisir (Ici et Maintenant...) lors de cette séance, soyez y cool, "venez comme (qui) vous êtes", vous serez surpris d'observer comme vous serez apprécié...
+-> Garder à l'esprit qu' "un Tien vaut toujours mieux que 1000 tu l'auras (peut-être)..." : En conséquence, prenez y du plaisir (Ici et Maintenant...) lors et dès cette première séance, soyez y cool, "venez comme (qui) vous êtes", vous serez surpris d'observer comme vous serez apprécié...
 
 
 *Si vous ne prenez avec vous qu'une chose, amenez votre agenda !*
