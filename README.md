@@ -15,7 +15,7 @@ Vous avez déjà des idées, peut-être déjà des compétences et des projets e
 
 De puissants outils sont là, à dispo... Réunissons tout cela ! Partageons tout cela ! Organisons tout cela pour que chaque ressource optimale soit 'connectée' au moment le plus opportun, et exploitons tout cela !
 
-N'hésitez pas ! Quasi gratos (Juste parfois un droit d'entrée lors d'évènements comme le premier MeetUp pour couvrir les frais réels), sans aucun engagement, juste, décidez de créer, décidez d'être !
+N'hésitez pas ! Une opportunité gigantesque, aucun engagement, juste, décidez de co-créer, décidez d'être !
 
 
 @ bi1tô !
