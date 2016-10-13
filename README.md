@@ -23,7 +23,9 @@ N'hésitez pas ! Quasi gratos (Juste parfois un droit d'entrée lors d'évèneme
 -----------------------------------------------------------------------------------------------------------------------------
 
 Action soutenue périodiquement par des rencontres physiques:
+
 http://aperophp.net/398/view.html
+
 https://www.meetup.com/fr-FR/Meetup-Langages-de-programmation-C2B/events/234821382/
 
 Prochaîne (Et première date !) :
