@@ -28,7 +28,8 @@ Prochaîne (Et première date !) :
 # Mercredi 23/11/2016 - 19:30 - Valenciennes
 ## Lieu précis à définir selon suggestions
 
-## Durée: Une paires d'heures max (Avec entre-acte 1/4H env. au milieu).
+## Durée: Une paires d'heures max
+(Avec entre-acte 1/4H env. au milieu).
 
 *Eau - Café - Jus de fruits offerts... Peut-être des chips et cacahuettes... Seront aussi au RV. Lol*
 
@@ -37,7 +38,8 @@ Prochaîne (Et première date !) :
 
 
 
-# Objectifs principaux de ce RV (à la base mensuel mais jamais obligatoire):
+# Objectifs principaux de ce RV
+(à la base mensuel mais jamais obligatoire):
 
 -> Se rencontrer vraiment, partager plus aisément émotions, enthousiasme et idées/initiatives
 
