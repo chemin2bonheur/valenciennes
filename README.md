@@ -72,7 +72,8 @@ Vous souhaitant le plus nombreux possible...
 
 LC
 
-P.S.: 1) Et souriez, même si vous n'êtes pas filmé... ;-)
+P.S.: 1 Et souriez, même si vous n'êtes pas filmé...
 
-      2) Déroulement de la soirée: https://github.com/chemin2bonheur/valenciennes/blob/master/programmeSessionOuverture_161123.MD
+      2 [Déroulement de la soirée du 23/11/2016)(https://github.com/chemin2bonheur/valenciennes/blob/master/programmeSessionOuverture_161123.MD)
+      
       
