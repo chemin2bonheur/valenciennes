@@ -10,11 +10,11 @@
 - Une seule chose importe ce soir: Votre décision !
 - Q & R.
 
-##Puis dials libres entres présents.
+## 20:20 Puis dials libres entres présents.
 
 Avez-vous bien penser à vous munir de votre agenda comme conseillé ?
 
-=> Repartez ce soir avec au moins 2 R.V. !
+=> 21:30 - 22:00 Repartez ce soir avec au moins 2 R.V. !
    (Avec au moins un des participants et un avec vous même...).
 
 ---------------------------------------------
