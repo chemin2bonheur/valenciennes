@@ -15,7 +15,7 @@
 Avez-vous bien penser à vous munir de votre agenda comme conseillé ?
 
 => Repartez ce soir avec au moins 2 R.V. !
-   (Avec au moins un des participants et avec vous même...).
+   (Avec au moins un des participants et un avec vous même...).
 
 ---------------------------------------------
 
