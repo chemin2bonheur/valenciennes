@@ -2,33 +2,36 @@
 Co-créateurs Valenciennes (Contingent 17/02)
 
 ## Pour Qui ?
-TOUS (Débutant à Pros en quoi que ce soit)
+TOUS (Des Débutants aux Pros, en quoi que ce soit)
 
 ## Pour Quoi ?
 Réaliser aisément (Par l'usage des technologies les plus efficaces) des apps (Sous licences Open Sources) qui servent au plus grand nombre, en utilisant la puissance de Git.
 
-
+## Comment ?
 Tout (Même ce texte) est modifiable, adaptable, améliorable... Par chacun d'entre nous !
+(Si vous ne savez pas comment, ne vous inquiétez pas ! Même cela vous l'apprendrez aisément !)
 
 Vous avez déjà des idées, peut-être déjà des compétences et des projets en cours ? Ou pas...
 
 De puissants outils sont là, à dispo... Réunissons tout cela ! Partageons tout cela ! Organisons tout cela pour que chaque ressource optimale soit 'connectée' au moment le plus opportun, et exploitons tout cela !
 
-N'hésitez pas ! Quasi gratos, sans aucun engagement, juste, décidez de créer, décidez d'être !
+N'hésitez pas ! Quasi gratos (Juste parfois un droit d'entrée lors d'évènements comme le premier MeetUp pour couvrir les frais réels), sans aucun engagement, juste, décidez de créer, décidez d'être !
 
 
 @ bi1tô !
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-Action soutenue périodiquement par des rencontres physiques: http://aperophp.net/398/view.html
+Action soutenue périodiquement par des rencontres physiques:
+http://aperophp.net/398/view.html
+https://www.meetup.com/fr-FR/Meetup-Langages-de-programmation-C2B/events/234821382/
 
 Prochaîne (Et première date !) :
 
 # Mercredi 23/11/2016 - 19:30 - Valenciennes
-## Lieu précis à définir selon suggestions
+## Lieu précis à définir selon nombre de participans prévus et suggestions reçues
 
-## Durée: Une paires d'heures max
+## Durée: Une paires d'heures max.
 (Avec entre-acte 1/4H env. au milieu).
 
 *Eau - Café - Jus de fruits offerts... Peut-être des chips et cacahuettes... Seront aussi au RV. Lol*
@@ -38,10 +41,10 @@ Prochaîne (Et première date !) :
 
 
 
-# Objectifs principaux de ce RV
-(à la base mensuel mais jamais obligatoire):
+# Objectifs principaux de ce R.-V.
+(à la base prévu mensuel, mais jamais obligatoire):
 
--> Se rencontrer vraiment, partager plus aisément émotions, enthousiasme et idées/initiatives
+-> Se rencontrer vraiment, partager plus aisément émotions, enthousiasme et idées/initiatives, avis sur les dev en cours
 
 -> Dial de sujets qui vous passionnent (Et bien-sûr des outils informatiques ad'hoc qui aident à vous permettre d'en vivre toujours plus et mieux l'expérimentation)
 
@@ -57,7 +60,7 @@ Prochaîne (Et première date !) :
 
 - (Re)Commencer à croire, que quelque soit votre situation d'aujourd'hui, tout vous est possible,
 
-- Décider de vous faire un cadeau, à vous même: De vous donner les moyens (On parle alors plus d'efforts que d'investissement notemment financier) d'aller toujours dans le sens de votre objectif, en respect avec vos valeurs personnelles... (Cela aura commencé par venir à cette 'première'...)
+- Décider de vous faire un cadeau, à vous même: De vous donner les moyens (On parle alors plus d'efforts que d'investissement notemment financiers) d'aller toujours dans le sens de votre objectif, en respect avec vos valeurs personnelles... (Cela aura commencé par venir à cette 'première'...)
 
 - En option: Accepter de vous dévoiler un peu... (Rassurez-vous: Le formulaire est très superficiel et le remplir vous donnera accès aux infos livrées par les autres participants actifs: Prénom - Pseudo (Courant, p-ê sur le net) - E-Mail
 et Liste des Domaine(s) que vous aimez, en précisant votre compétence(s) déjà acquises avec une évaluation subective de 1 à 3 [1: (Très)Débutant - 2:Initié - 3:Puriste/Pro)]
