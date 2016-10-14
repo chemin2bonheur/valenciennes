@@ -41,12 +41,12 @@ selon nombre de participans prévus et suggestions reçues
 *Eau - Café - Jus de fruits offerts... Peut-être des chips et cacahuettes... Seront aussi au RV. Lol*
 
 
-## Participation aux frais: 77 €/pers.
+## Participation aux frais: [77 €/pers/an](https://docs.google.com/spreadsheets/d/18g-JZlv6Nn90iBHBAjfoC6LBxFB4PAmWgE5nliU71qg/edit?usp=sharing) .
 (Une réelle opportunité majeure dans votre vie peut ne se produire qu'une seule fois... 
 
 Et pour vous, ça commence maintenant !
 
-Ce prix, c'est uniquement si [la réservation est faite le dernier jour possible, car moins élevé si vous avez eût la chance d'avoir l'info au plus tôt et sû prendre la Bonne Décision le plus rapidement possible](https://docs.google.com/spreadsheets/d/18g-JZlv6Nn90iBHBAjfoC6LBxFB4PAmWgE5nliU71qg/edit#gid=0)...)
+Ce prix, c'est uniquement si [la réservation est faite le dernier jour possible, car moins élevé si vous avez eût la chance d'avoir l'info au plus tôt et sû prendre la Bonne Décision le plus rapidement possible](https://docs.google.com/spreadsheets/d/18g-JZlv6Nn90iBHBAjfoC6LBxFB4PAmWgE5nliU71qg/edit?usp=sharing)...)
 
 
 
