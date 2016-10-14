@@ -10,12 +10,14 @@
 - Une seule chose importe ce soir: Votre décision !
 - Q & R.
 
-## 20:20 Puis dials libres entres présents.
+## 20:20 Puis dials 'libres et dirigés' entres présents.
 
 Avez-vous bien penser à vous munir de votre agenda comme conseillé ?
 
 => 21:30 - 22:00 Repartez ce soir avec au moins 2 R.V. !
    (Avec au moins un des participants et un avec vous même...).
+
+Les inscrits à Alpha-C2B n'étant pas physiquement présents recevront le même jour, un accès à un portail pour remplir le même formulaire en ligne (Les 4 questions essentielles) + les params d'accès à un forum leur permettant les échanges 'libres et dirigés', comprenant bien-sûr un thread pour les Q & R....
 
 ---------------------------------------------
 
