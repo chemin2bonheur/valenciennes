@@ -31,7 +31,7 @@ http://aperophp.net/398/view.html
 #INSCRIPTION / RESERVATION :
 https://www.meetup.com/fr-FR/Meetup-Langages-de-programmation-C2B/events/234821382/
 
-Prochaîne (Et première date... Et la dernière (Les MeetUps suivants se feront uniquement avec des invités !) :
+Prochaîne (Et première date... Et la dernière (Les MeetUps suivants se feront uniquement sur invitation !)) :
 
 # Mercredi 23/11/2016 - 19:30 - Valenciennes
 ## Lieu précis à définir
