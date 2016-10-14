@@ -17,8 +17,10 @@ De puissants outils sont là, à dispo... Réunissons tout cela ! Partageons tou
 
 N'hésitez pas ! Une opportunité gigantesque, aucun engagement, juste, décidez de co-créer, décidez d'être !
 
+Et ça commence... [ICI pour l'INSCRIPTION](https://www.meetup.com/fr-FR/Meetup-Langages-de-programmation-C2B/events/234821382)
 
 @ bi1tô !
+PS / Tips : Réagissez vite, surtout si vous avez des amis à prévenir...
 
 -----------------------------------------------------------------------------------------------------------------------------
 
@@ -26,6 +28,7 @@ Action soutenue périodiquement par des rencontres physiques:
 
 http://aperophp.net/398/view.html
 
+#INSCRIPTION / RESERVATION :
 https://www.meetup.com/fr-FR/Meetup-Langages-de-programmation-C2B/events/234821382/
 
 Prochaîne (Et première date... Et la dernière (Les MeetUps suivants se feront uniquement avec des invités !) :
