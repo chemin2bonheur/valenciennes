@@ -17,7 +17,7 @@ Avez-vous bien penser à vous munir de votre agenda comme conseillé ?
 => 21:30 - 22:00 Repartez ce soir avec au moins 2 R.V. !
    (Avec au moins un des participants et un avec vous même...).
 
-Tous les inscrits à Alpha-C2B, y compris ceux n'étant pas physiquement présents pour X raison, recevront ce même jour, un accès à un portail pour remplir le même formulaire en ligne (Les 4 questions essentielles) comprenant un forum permettant les échanges DLD, ainsi, bien-sûr un thread pour les Q & R....
+Tous les inscrits à Alpha-C2B, y compris ceux n'étant pas physiquement présents pour X raison, recevront ce même jour, un accès à un portail pour remplir le même formulaire en ligne (Les 4 questions essentielles) comprenant un forum permettant les échanges DLD, ainsi, bien-sûr qu'un thread pour les Q & R....
 
 ---------------------------------------------
 
