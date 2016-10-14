@@ -24,9 +24,7 @@ PS / Tips : Réagissez vite, surtout si vous avez des amis à prévenir...
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-Action soutenue périodiquement par des rencontres physiques:
-
-http://aperophp.net/398/view.html
+Action soutenue périodiquement par des rencontres physiques lors de Meetups:
 
 #INSCRIPTION / RESERVATION :
 https://www.meetup.com/fr-FR/Meetup-Langages-de-programmation-C2B/events/234821382/
@@ -44,7 +42,10 @@ selon nombre de participans prévus et suggestions reçues
 
 
 ## Participation aux frais: 77 €/pers.
-(Une réelle opportunité majeure dans votre vie peut ne se produire qu'une seule fois... Et ça commence maintenant !
+(Une réelle opportunité majeure dans votre vie peut ne se produire qu'une seule fois... 
+
+Et pour vous, ça commence maintenant !
+
 Ce prix, c'est uniquement si [la réservation est faite le dernier jour possible, car moins élevé si vous avez eût la chance d'avoir l'info au plus tôt et sû prendre la Bonne Décision le plus rapidement possible](https://docs.google.com/spreadsheets/d/18g-JZlv6Nn90iBHBAjfoC6LBxFB4PAmWgE5nliU71qg/edit#gid=0)...)
 
 
@@ -56,7 +57,6 @@ Ce prix, c'est uniquement si [la réservation est faite le dernier jour possible
 -> Se rencontrer vraiment, partager plus aisément émotions, enthousiasme et idées/initiatives, avis sur les dev en cours
 
 -> Conscientisation de votre rôle personnel important dans cette participation - Fera l'objet d'un mini speach (15-20 mn max. - Promis !) à 20 H 00.
-
 
 -> Dial de sujets qui vous passionnent (Et bien-sûr des outils informatiques ad'hoc qui aident à vous permettre d'en vivre toujours plus et mieux l'expérimentation)
 
