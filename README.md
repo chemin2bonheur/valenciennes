@@ -17,18 +17,19 @@ De puissants outils sont là, à dispo... Réunissons tout cela ! Partageons tou
 
 N'hésitez pas ! Une opportunité gigantesque, aucun engagement, juste, décidez de co-créer, décidez d'être !
 
+Et ça commence... [ICI pour l'INSCRIPTION](https://www.meetup.com/fr-FR/Meetup-Langages-de-programmation-C2B/events/234821382)
 
 @ bi1tô !
+PS / Tips : Réagissez vite, surtout si vous avez des amis à prévenir...
 
 -----------------------------------------------------------------------------------------------------------------------------
 
-Action soutenue périodiquement par des rencontres physiques:
+Action soutenue périodiquement par des rencontres physiques lors de Meetups:
 
-http://aperophp.net/398/view.html
-
+#INSCRIPTION / RESERVATION :
 https://www.meetup.com/fr-FR/Meetup-Langages-de-programmation-C2B/events/234821382/
 
-Prochaîne (Et première date... Et la dernière (Les MeetUps suivants se feront uniquement avec des invités !) :
+Prochaîne (Et première date... Et la dernière (Les MeetUps suivants se feront uniquement sur invitation !)) :
 
 # Mercredi 23/11/2016 - 19:30 - Valenciennes
 ## Lieu précis à définir
@@ -40,9 +41,12 @@ selon nombre de participans prévus et suggestions reçues
 *Eau - Café - Jus de fruits offerts... Peut-être des chips et cacahuettes... Seront aussi au RV. Lol*
 
 
-## Participation aux frais: 77 €/pers.
-(Une réelle opportunité majeure dans votre vie peut ne se produire qu'une seule fois... Et ça commence maintenant !
-Ce prix, c'est uniquement si la réservation est faite le dernier jour possible, car moins élevé si vous avez eût la chance d'avoir l'info au plus tôt et sû prendre la Bonne Décision le plus rapidement possible...)
+## Participation aux frais: [77 € /pers. /an*](https://docs.google.com/spreadsheets/d/18g-JZlv6Nn90iBHBAjfoC6LBxFB4PAmWgE5nliU71qg/edit?usp=sharing) .
+(Une réelle opportunité majeure dans votre vie peut ne se produire qu'une seule fois... 
+
+Et pour vous, ça commence maintenant !
+
+*: Ce prix, c'est uniquement si [la réservation est faite le dernier jour possible, car moins élevé si vous avez eût la chance d'avoir l'info au plus tôt et sû prendre la Bonne Décision le plus rapidement possible](https://docs.google.com/spreadsheets/d/18g-JZlv6Nn90iBHBAjfoC6LBxFB4PAmWgE5nliU71qg/edit?usp=sharing)...)
 
 
 
@@ -53,7 +57,6 @@ Ce prix, c'est uniquement si la réservation est faite le dernier jour possible,
 -> Se rencontrer vraiment, partager plus aisément émotions, enthousiasme et idées/initiatives, avis sur les dev en cours
 
 -> Conscientisation de votre rôle personnel important dans cette participation - Fera l'objet d'un mini speach (15-20 mn max. - Promis !) à 20 H 00.
-
 
 -> Dial de sujets qui vous passionnent (Et bien-sûr des outils informatiques ad'hoc qui aident à vous permettre d'en vivre toujours plus et mieux l'expérimentation)
 
