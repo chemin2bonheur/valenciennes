@@ -46,7 +46,7 @@ selon nombre de participans prévus et suggestions reçues
 
 Et pour vous, ça commence maintenant !
 
-*: Ce prix, c'est uniquement si [la réservation est faite le dernier jour possible, car moins élevé si vous avez eût la chance d'avoir l'info au plus tôt et sû prendre la Bonne Décision le plus rapidement possible](https://docs.google.com/spreadsheets/d/18g-JZlv6Nn90iBHBAjfoC6LBxFB4PAmWgE5nliU71qg/edit?usp=sharing)...)
+*: Ce prix, c'est uniquement pour les cessions autres que la première et si, pour celle-ci, [la réservation est faite le dernier jour possible (20/11/16), car moins élevé si vous avez eût la chance d'avoir l'info au plus tôt et sû prendre la Bonne Décision le plus rapidement possible](https://docs.google.com/spreadsheets/d/18g-JZlv6Nn90iBHBAjfoC6LBxFB4PAmWgE5nliU71qg/edit?usp=sharing)...)
 
 
 
@@ -90,6 +90,6 @@ P.S.:
 
 1 Et n'ouliez pas: Souriez, même si vous n'êtes pas filmé...
 
-2 Cliquez ici pour avoir le détail du [déroulement de la soirée du 23/11/2016](https://github.com/chemin2bonheur/valenciennes/blob/master/programmeSessionOuverture_161123.MD).
+2 Cliquez ici pour avoir le détail du [déroulement de la soirée MeetUp](https://github.com/chemin2bonheur/valenciennes/blob/master/programmeSessionOuverture_161123.MD).
       
       
