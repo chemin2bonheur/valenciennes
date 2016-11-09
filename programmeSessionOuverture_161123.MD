@@ -6,7 +6,7 @@
 - Merci
 - Bravo
 - Opportunité !
-- Les 4 questions fondamentales
+- Les 4 questions fondamentales.
 - Une seule chose importe ce soir: Votre décision !
 - Q & R.
 
